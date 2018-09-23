@@ -1,2 +1,2 @@
 # test
-its just a test
+it's just a test
